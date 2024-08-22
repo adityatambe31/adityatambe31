@@ -70,6 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/adityatambe31/adityatambe31/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adityatambe31/adityatambe31/output/snake.svg" alt="Snake animation" />
 
 ###
