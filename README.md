@@ -1,15 +1,15 @@
 # Hey 👋 What's up?
 
-My name is Aditya Tambe and I'm a Full Stack Developer....
+My name is **Aditya Tambe** and I'm a Full Stack Developer....
 
-## About me
+## About Me
 
 ✨ **Currently Working On**: Enhancing my portfolio and diving into Next.js and Three.js.  
 📚 **Currently Learning**: Mastering Next.js and Three.js.  
 🎓 **In My 3rd Semester**: Actively seeking internship opportunities and connecting with like-minded individuals.  
 🎲 **Fun Fact**: I’m working on my communication skills to make new connections and find a great internship.
 
-## I code with
+## I Code With
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
