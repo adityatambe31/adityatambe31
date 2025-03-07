@@ -13,7 +13,7 @@ Hi! I’m a passionate Full Stack Developer with a strong foundation in web deve
 
 Feel free to reach out to me on:
 
-- 📧 **Email:** aditya@icloud.com
+- 📧 **Email:** adityatambee@icloud.com
 - 🔗 **LinkedIn:** [Aditya Tambe](https://www.linkedin.com/in/adityatambee/)
 
 Thanks for checking out my GitHub profile! I look forward to collaborating and learning together! 🌟
