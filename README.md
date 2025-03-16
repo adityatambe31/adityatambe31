@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi! I’m a passionate Full Stack Developer with a strong foundation in web development, AI-driven applications, and software engineering. I’m currently pursuing an Advanced Diploma in Computer Programming & Analysis at Seneca Polytechnic College, where I’m refining my expertise in AI, system design, and full-stack development.<br><br>🔧 I specialize in technologies like JavaScript, TypeScript, React, Node.js, and Python.<br>🌱 I’m currently learning more about AI/ML, Cloud Computing, and DevOps.<br>🌍 I love working on impactful projects that solve real-world problems, such as my Meal Planner AI and Trip Planner AI apps.<br>🚀 I’m passionate about continuous learning, open-source contributions, and growing as a software engineer.
+Hi! I’m a passionate Full Stack Developer with a strong foundation in web development, AI-driven applications, and software engineering. I’m currently pursuing an Advanced Diploma in Computer Programming & Analysis at Seneca Polytechnic College, where I’m refining my expertise in AI, system design, and full-stack development.
+
+🔧 I specialize in technologies like JavaScript, TypeScript, React, Node.js, and Python.  
+🌱 I’m currently learning more about AI/ML, Cloud Computing, and DevOps.  
+🌍 I love working on impactful projects that solve real-world problems, such as my Meal Planner AI and Trip Planner AI apps.  
+🚀 I’m passionate about continuous learning, open-source contributions, and growing as a software engineer.
+
 
 
 ## 🌐 Socials:
