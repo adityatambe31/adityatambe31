@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there! I'm a passionate **Full Stack Developer** with a strong foundation in **web development**, **AI-driven applications**, and **software engineering**. Currently, I'm pursuing an **Advanced Diploma in Computer Programming & Analysis** at **Seneca Polytechnic College**, where I'm enhancing my skills in **AI**, **system design**, and **full-stack development**.
 
-🔧 **Technologies I specialize in**: JavaScript, TypeScript, React, Node.js, Python  
+🔧 **Technologies I specialize in**: TypeScript, NextJS, Python, MongoDB  
 🌱 **Currently learning**: AI/ML, Cloud Computing, and DevOps  
 🌍 **I thrive on working on impactful projects** that address real-world challenges.  
 🚀 **Continuous learning, open-source contributions, and growing as a software engineer** are my passions.
